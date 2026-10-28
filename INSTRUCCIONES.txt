@@ -1,0 +1,11 @@
+BLACK PLAYER PWA - Subdivisiones
+
+Publica todos los archivos en una misma carpeta de un servidor HTTPS.
+Abre la URL en Safari del iPhone y usa Compartir > Añadir a pantalla de inicio.
+En DARK COUNTRY están las subdivisiones Español e Inglés.
+Elige IMPORTAR EN antes de seleccionar varios MP3.
+Usa los filtros Todas, Español, Inglés o Sin clasificar para ver las canciones.
+Puedes crear subdivisiones en cualquier colección.
+Los MP3 importados previamente quedan como Sin clasificar, sin perderse.
+La app se almacena offline tras una primera visita online.
+Las canciones se guardan en el almacenamiento local del navegador, sujeto a las políticas de iOS.
